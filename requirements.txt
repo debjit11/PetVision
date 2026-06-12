@@ -4,3 +4,4 @@ matplotlib
 seaborn
 ipykerne
 pytorch
+scikit-learn
