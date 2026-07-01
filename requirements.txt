@@ -5,3 +5,4 @@ seaborn
 ipykernel
 pytorch
 scikit-learn
+torchinfo 
