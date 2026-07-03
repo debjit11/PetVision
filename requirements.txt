@@ -6,3 +6,4 @@ ipykernel
 pytorch
 scikit-learn
 torchinfo 
+tqdm
