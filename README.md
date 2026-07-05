@@ -249,17 +249,3 @@ pip install -r requirements.txt
 - Model Deployment
 
 ---
-
-## 👨‍💻 Author
-
-**Debjit Das**
-
-B.Tech CSE (AI & ML)
-
-Passionate about Artificial Intelligence, Deep Learning, Computer Vision, and PyTorch.
-
----
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub.
