@@ -63,13 +63,13 @@ PETVISION/
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/debjit11/PetVision.git
 ```
 
 Move into the project folder
 
 ```bash
-cd your-repository
+cd PetVision
 ```
 
 Install dependencies
