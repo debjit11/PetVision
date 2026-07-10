@@ -1,10 +1,25 @@
-pandas 
+# pandas 
+# numpy
+# matplotlib
+# seaborn
+# ipykernel
+# pytorch
+# scikit-learn
+# torchinfo 
+# tqdm
+# streamlit
+
+
+pandas
 numpy
 matplotlib
 seaborn
-ipykernel
-pytorch
 scikit-learn
-torchinfo 
+torch
+torchvision
+torchaudio
+torchinfo
 tqdm
 streamlit
+pillow
+opencv-python
