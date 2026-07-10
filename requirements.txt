@@ -1,10 +1,10 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
 pandas 
 numpy
 matplotlib
 seaborn
 ipykernel
 pytorch
---index-url https://download.pytorch.org/whl/cu118
 scikit-learn
 torchinfo 
 tqdm
