@@ -1,15 +1,3 @@
-# pandas 
-# numpy
-# matplotlib
-# seaborn
-# ipykernel
-# pytorch
-# scikit-learn
-# torchinfo 
-# tqdm
-# streamlit
-
-
 pandas
 numpy
 matplotlib
