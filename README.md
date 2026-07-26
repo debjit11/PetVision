@@ -215,6 +215,7 @@ The notebook records
 - Testing Loss
 - Testing Accuracy
 
+
 These metrics can be plotted using Matplotlib.
 
 ---
