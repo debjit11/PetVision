@@ -64,5 +64,4 @@ class ImageClassifier(nn.Module):
         return x
 
 
-
 model = ImageClassifier().to(device)
