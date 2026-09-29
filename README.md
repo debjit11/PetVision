@@ -12,6 +12,11 @@ The model is trained on a Cats vs Dogs dataset and can predict whether a new ima
 
 ---
 
+
+## 🔄 Project Workflow
+
+![PetVision Project Workflow](https://github.com/debjit11/PetVision/blob/main/diagram.png?raw=true)
+
 ## 📂 Project Structure
 
 ```
