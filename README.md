@@ -1,6 +1,7 @@
-# 🐱🐶 Cats vs Dogs Image Classifier using PyTorch
+![Cats vs Dogs PyTorch Image Classifier](https://github.com/debjit11/PetVision/blob/main/Cats%20vs%20Dogs_%20PyTorch%20Image%20Classifier.png?raw=true)
 
 A Deep Learning image classification project built with **PyTorch** that classifies images as either **Cat** or **Dog** using a Convolutional Neural Network (CNN).
+
 
 ---
 
